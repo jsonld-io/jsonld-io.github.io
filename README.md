@@ -1,4 +1,4 @@
-This is a collection of community driven JSON-LD @context files.
+This is a collection of JSON-LD @context files.
 
 * [Atom feeds](http://feeds.json-ld.io/)
 
