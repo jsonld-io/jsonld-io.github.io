@@ -1,0 +1,13 @@
+# baseurl: /microforms
+
+theme: jekyll-theme-slate
+
+kramdown:
+  auto_ids: true # Auto-generate ID's for headings
+
+plugins:
+  - jekyll-readme-index
+
+readme_index:
+  enabled:          true
+  remove_originals: false
